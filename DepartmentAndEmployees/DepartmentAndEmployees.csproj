@@ -43,9 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Modeller\Departament.cs" />
+    <Compile Include="Modeller\Department.cs" />
+    <Compile Include="Prosesler\HumanResourceManager.cs" />
+    <Compile Include="Prosesler\IHumanResourceManager.cs" />
     <Compile Include="Modeller\Employee.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Prosesler\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

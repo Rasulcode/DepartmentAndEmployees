@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DepartmentAndEmployees
 {
-    class Departament
+    class Department
     {
         private string name;
         private int workerLimit;
@@ -42,4 +42,3 @@ namespace DepartmentAndEmployees
         }
     }
 }
-
