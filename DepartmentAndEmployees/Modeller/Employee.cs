@@ -8,7 +8,7 @@ namespace DepartmentAndEmployees
 {
     class Employee
     {
-        public static int n = 999;
+        public static int n = 1000;
         public string No;
         public string Fullname { get; set; }
         private string position;
